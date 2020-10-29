@@ -1,0 +1,39 @@
+/* -------------------------
+:: utility Class
+---------------------------- */
+.nonprofit-pt-100 {
+    padding-top: 100px;
+}
+.nonprofit-pt-80 {
+    padding-top: 80px;
+}
+.nonprofit-pt-70 {
+    padding-top: 70px;
+}
+.nonprofit-pt-60 {
+    padding-top: 60px;
+}
+.nonprofit-pt-50 {
+    padding-top: 50px;
+}
+.nonprofit-pt-30 {
+    padding-top: 30px;
+}
+.nonprofit-pb-100 {
+    padding-bottom: 100px;
+}
+.nonprofit-pb-80 {
+    padding-bottom: 80px;
+}
+.nonprofit-pb-70 {
+    padding-bottom: 70px;
+}
+.nonprofit-pb-60 {
+    padding-bottom: 60px;
+}
+.nonprofit-pb-50 {
+    padding-bottom: 50px;
+}
+.nonprofit-pb-30 {
+    padding-bottom: 30px;
+}
